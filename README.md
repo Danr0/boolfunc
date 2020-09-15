@@ -1,2 +1,2 @@
 # boolfunc
-University boolean function visualze 
+University boolean function visualize 
